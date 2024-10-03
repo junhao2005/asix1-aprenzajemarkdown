@@ -41,4 +41,14 @@ Considerado con frecuencia el mejor jugador del mundo y uno de los mejores de to
         @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Honk:MORF,SHLN@5,66.7&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Magra:wght@400;700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Permanent+Marker&family=Varela+Round&display=swap');
     </style>
 ```
+### Añadir url
 
+[textoClicable](URL "Titulo opcional")
+
+[Pagina web de Joan23](https://www.fje.edu/ca/jesuites-bellvitge "Titulo opcional")
+
+### Como poner una imagen
+
+![TextoAlternativo](UbicacionDeLaImagen "Titulo opcional")
+
+![Messi](messi.jpg "Titulo opcional")
