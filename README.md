@@ -52,3 +52,12 @@ Considerado con frecuencia el mejor jugador del mundo y uno de los mejores de to
 ![TextoAlternativo](UbicacionDeLaImagen "Titulo opcional")
 
 ![Messi](messi.jpg "Titulo opcional")
+
+### Como poner tabla
+
+|Titulo 1 | Titulo 2 | Titulo 3 |
+|-----------|:----------:|--------------|
+|SMX2 |Curso 2324|25| 
+|**ASIX1** |Curso 2425|33| 
+|DAW2 |Curso 2425|35| 
+
