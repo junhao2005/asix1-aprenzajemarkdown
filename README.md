@@ -1,2 +1,7 @@
 # asix1-aprenzajemarkdown
-Primer clase de mardown
+## Segundo nivel de encabezados
+### Tercero
+#### Quarto
+##### Quinto
+###### Sexto
+
